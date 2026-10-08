@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="contador">Cuenta</string>
+    <string name="decremento">Decremento Contador</string>
+    <string name="Incremento">Incremento Contador</string>
+    <string name="Inicializar">Inicializar</string>
+</resources>

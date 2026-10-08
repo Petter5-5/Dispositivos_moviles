@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AplicacionSencilla</string>
+    <string name="initial_message">Nadie pulsó el botón aún</string>
+    <string name="pressed_message">Usuario pulsó el botón</string>
+    <string name="press">Pulsar</string>
+    <string name="reset">Resetear</string>
+    <string name="card_label">Tarjeta %1$d</string>
+</resources>
