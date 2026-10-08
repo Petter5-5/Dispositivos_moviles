@@ -21,7 +21,7 @@ private val DarkColors = darkColorScheme(
 )
 
 @Composable
-fun ActividadBotonComposeTheme(
+fun AplicacionSencillaComposeTheme(
 
     darkTheme: Boolean =
         isSystemInDarkTheme(),
